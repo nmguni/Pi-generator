@@ -1,0 +1,31 @@
+.container {
+  margin: 100px auto;
+  text-align: center;
+  background-color: #ccc;
+  width: 500px;
+  height: 350px;
+  opacity: 0.8;
+  border-radius: 5px;
+}
+body {
+  background: url(../img/cake-cream-delicious-669736.jpg) no-repeat;
+  min-height: 700px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  padding-top: 30px;
+}
+p {
+  font-size: 35px;
+  padding-top: 0;
+}
+
+input {
+  padding: 10px;
+  text-decoration: none;
+  border: none;
+}
+input:hover {
+  background-color: rgb(25, 25, 112, 0.8);
+}
